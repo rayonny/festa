@@ -581,8 +581,6 @@ section {
 }
 
 
-/* Your existing CSS styles here */
-
 @media (max-width: 991px) {
   html {
     font-size: 55%;
@@ -595,7 +593,6 @@ section {
   }
 }
 
-/* Media Query for screens smaller than 768px */
 @media (max-width: 768px) {
   #menu-bars {
     display: initial;
@@ -633,7 +630,7 @@ section {
   }
 }
 
-/* Your remaining CSS styles here */
+
 
 
 @media (max-width: 450px) {
